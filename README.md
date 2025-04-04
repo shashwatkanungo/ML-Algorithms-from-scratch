@@ -1,7 +1,7 @@
 # 🧠 ML Algorithms From Scratch
 
 Welcome to the **Machine Learning Algorithms From Scratch** repository!  
-This project demonstrates the core logic behind popular ML algorithms without relying on high-level libraries — just `NumPy` and a love for learning. ✨
+This project demonstrates the core logic behind popular ML algorithms without relying on high-level libraries — just `NumPy` and a love for learning. 
 
 ---
 
